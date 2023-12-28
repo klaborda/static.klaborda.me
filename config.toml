@@ -70,3 +70,11 @@ menu_items = [
     # tag is not a zola section, it's just a link.
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
 ]
+
+# Open Graph Protocol objects. See: https://ogp.me/
+[extra.ogp]
+locale = "en_US"
+first_name = "Kevin"
+last_name = "Laborda"
+gender = "male"
+username = "klaborda"
