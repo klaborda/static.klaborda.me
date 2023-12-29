@@ -6,4 +6,4 @@ date = 2023-12-28
 categories = ["software"]
 +++
 
-In a casual switchup, I've deciced to set up a new static webpage. I was going to go with Hugo but... I pivoted. Zola (Rust) it is!
+In a casual switchup, I've decided to set up a new static webpage. I was going to go with Hugo but... I pivoted. Zola (Rust) it is!
